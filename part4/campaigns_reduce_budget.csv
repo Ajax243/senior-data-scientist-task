@@ -1,0 +1,82 @@
+campaign_id,campaign_name,cost,total_leads,qualified_leads,cpql,qualification_rate,ctr,total_score,action,recommendation
+6576,Plage,0.0,1.0,0.0,,0.0,0.0,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6618,Plage,1205.08,1.0,0.0,,0.0,0.009413330797756013,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6627,Plage,784.5899999999999,1.0,0.0,,0.0,0.009786597798015495,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6634,Plage,1127.85,2.0,0.0,,0.0,0.00903997011580127,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6645,Plage,1411.26,2.0,0.0,,0.0,0.007998757474567058,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6653,Plage,1263.84,1.0,0.0,,0.0,0.009653483178445357,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6654,Plage,1103.22,1.0,0.0,,0.0,0.008770053475935829,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6655,Plage,1221.72,2.0,0.0,,0.0,0.009232454424536421,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6656,Plage,1599.4,2.0,0.0,,0.0,0.008054123711340205,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6657,Plage,1082.36,1.0,0.0,,0.0,0.007270209451272287,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6663,Plage,1047.57,1.0,0.0,,0.0,0.00885525680244727,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6666,Plage,1052.19,1.0,0.0,,0.0,0.009678230266465561,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6671,Plage,776.74,1.0,0.0,,0.0,0.0071307540242869245,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6675,Plage,1399.17,2.0,0.0,,0.0,0.007264986145840373,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6676,Plage,1372.58,1.0,0.0,,0.0,0.008024262336513552,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6678,Plage,1371.92,2.0,0.0,,0.0,0.008213478713102112,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6686,Plage,1284.84,2.0,0.0,,0.0,0.009759698187484622,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6751,Plage,543.53,1.0,0.0,,0.0,0.009793889782195586,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6773,Plage,571.14,1.0,0.0,,0.0,0.008939974457215836,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6774,Plage,1342.16,1.0,0.0,,0.0,0.009255789552574384,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6778,Plage,1328.28,1.0,0.0,,0.0,0.00986171356541727,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6834,Mountain View iCity October,1086.48,1.0,0.0,,0.0,0.009388971684053652,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6871,Mountain View iCity October,1111.67,1.0,0.0,,0.0,0.008523472331497509,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6877,Mountain View iCity October,1109.35,1.0,0.0,,0.0,0.00878334417696812,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6879,Mountain View iCity October,1085.59,1.0,0.0,,0.0,0.00918679823069071,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+6954,Mountain View iCity October,1102.57,1.0,0.0,,0.0,0.009609224855861628,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7205,Mountain View iCity October,2991.52,5.0,1.0,2991.52,0.2,0.016082875457875456,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7388,Melee - north coast,6376.72,11.0,1.0,6376.72,0.09090909090909091,0.04400783005872544,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7403,Hyde Park North - Seashore,7091.4,14.0,1.0,7091.4,0.07142857142857142,0.07540566337893732,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7527,Plage,750.07,1.0,0.0,,0.0,0.009516041326808047,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7644,Plage,37972.04,127.0,0.0,,0.0,0.012461311234976366,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7676,Plage,1187.73,1.0,0.0,,0.0,0.008871989860583017,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7778,Ora New Zayed,7670.0,14.0,2.0,3835.0,0.14285714285714285,0.018009075439591606,37,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7929,solare - misr italia,1252.96,2.0,0.0,,0.0,0.00946060434905394,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7930,solare - misr italia,80456.28,185.0,0.0,,0.0,0.015704846694346852,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+7990,Plage,7347.95,20.0,0.0,,0.0,0.01590675273874261,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8028,Plage,11947.78,36.0,0.0,,0.0,0.013189427050813189,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8029,Plage,9826.43,23.0,0.0,,0.0,0.012423998312139172,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8030,Plage,8032.89,17.0,0.0,,0.0,0.01903592375366569,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8123,Plage,784.49,1.0,0.0,,0.0,0.006191588785046729,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8138,Mountain view - NC - Dabaa,3216.59,6.0,1.0,3216.59,0.16666666666666666,0.01786792225039237,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8148,Plage,12616.9,38.0,0.0,,0.0,0.01956076850239775,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8164,Plage,3866.39,6.0,1.0,3866.39,0.16666666666666666,0.015471677074041035,36,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8166,Plage,5844.47,13.0,0.0,,0.0,0.012503452402872399,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8170,Plage,18036.96,38.0,0.0,,0.0,0.015628039883268482,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8178,Plage,16014.17,35.0,0.0,,0.0,0.018880702024728205,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8191,Club Hills Residence - ZAYED by HDP,3969.0,4.0,0.0,,0.0,0.009739923324007875,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8193,Club Hills Residence - ZAYED by HDP,1495.65,2.0,0.0,,0.0,0.009315132696701622,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8469,Mar Bay - Al Marasem Ras El Hekma,9573.52,19.0,1.0,9573.52,0.05263157894736842,0.021774886103954703,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8595,Plage,3960.37,11.0,0.0,,0.0,0.01817684843515102,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+8633,Plage,377.74,1.0,0.0,,0.0,0.0,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+9282,SODIC The Estates,6049.28,8.0,1.0,6049.28,0.125,0.022926219258024176,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+10033,Mar Bay - Al Marasem Ras El Hekma,12481.71,29.0,0.0,,0.0,0.019565693202426366,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+10290,Ora Solana West,13621.0,39.0,0.0,,0.0,0.01427150368460586,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+10297,Ora Solana West,1625.58,2.0,0.0,,0.0,0.00940920677762783,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11030,Ora Solana West,351.79,1.0,0.0,,0.0,0.0091133765832561,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11107,ZED East - Ora Development,9927.49,22.0,0.0,,0.0,0.016665037630730135,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11488,Mountain View iCity October,20649.98,45.0,2.0,10324.99,0.044444444444444446,0.01709965066242314,36,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11741,G-Bay El sokhna,10228.52,13.0,1.0,10228.52,0.07692307692307693,0.023640634847877155,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11752,City Hall,4747.1900000000005,6.0,1.0,4747.1900000000005,0.16666666666666666,0.028933316776356636,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11795,Badya - Palm Hills,11213.96,8.0,1.0,11213.96,0.125,0.024821669558511665,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11804,Mountain View iCity October,17376.16,49.0,0.0,,0.0,0.015689363727372688,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11913,Kings Way,721.98,1.0,0.0,,0.0,0.009388335704125178,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+11954,Kings Way,1731.12,3.0,0.0,,0.0,0.008172120773820285,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+12183,Kings Way,7171.129999999999,19.0,0.0,,0.0,0.01275125936201666,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+12191,Kings Way,1226.96,2.0,0.0,,0.0,0.009780722511437134,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+12477,Al Burouj,9225.41,21.0,2.0,4612.705,0.09523809523809523,0.03737777310482599,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+12669,Il Cazar - The Crest,3697.43,5.0,1.0,3697.43,0.2,0.012753319357092943,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+12835,Stei8ht,6047.139999999999,16.0,0.0,,0.0,0.014176198588464346,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+12974,Stei8ht,801.9200000000001,1.0,0.0,,0.0,0.007544483985765124,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+13123,Stei8ht,1178.22,1.0,0.0,,0.0,0.007671232876712329,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+13124,Stei8ht,2810.54,4.0,0.0,,0.0,0.009419861656644305,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+13847,Plage,829.64,1.0,0.0,,0.0,0.00933448573898012,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+13873,ZED West - Ora Development,3970.21,9.0,1.0,3970.21,0.1111111111111111,0.01009594730058714,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+13996,Nurai new cairo - mercon developments,425.71,1.0,0.0,,0.0,0.0,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+14012,⁠Financial Hub - SUD - New Capital,8998.61,7.0,2.0,4499.305,0.2857142857142857,0.010448179271708683,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+14195,⁠Pearl - SUD - New Mansoura,4575.65,2.0,1.0,4575.65,0.5,0.009627992357546923,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+14939,Novara Development - Reve du Nil,0.0,1.0,0.0,,0.0,0.0,38,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+15166,HPD-Voke Mall,260086.61,1.0,0.0,,0.0,0.0016766778281205553,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+15209,Rewaya Compound - SIAC Development,4148.61,13.0,1.0,4148.61,0.07692307692307693,0.060839913854989235,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements
+15221,Rafts of Ark - The Ark,167469.56,2.0,0.0,,0.0,0.0022261920762699145,39,REDUCE_BUDGET,Poor performance - reduce budget by 50% while testing improvements

@@ -1,0 +1,92 @@
+campaign_id,campaign_name,cost,total_leads,qualified_leads,cpql,qualification_rate,ctr,total_score,action,recommendation
+6537,Karnak compound - zayed,27439.66,99.0,8.0,3429.9575,0.08080808080808081,0.03267525337837838,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+6583,Mar Bay - Al Marasem Ras El Hekma,4971.6,17.0,4.0,1242.9,0.23529411764705882,0.017800362544946657,54,TEST_CHANGES,Concerning performance - test creative/targeting changes
+6620,Plage,22954.11,52.0,7.0,3279.1585714285716,0.1346153846153846,0.014351155297868607,56,TEST_CHANGES,Concerning performance - test creative/targeting changes
+7319,Taj City,11793.33,15.0,3.0,3931.11,0.2,0.04928300642821823,44,TEST_CHANGES,Concerning performance - test creative/targeting changes
+7459,Mountain view - NC - Dabaa,68558.27,305.0,3.0,22852.756666666668,0.009836065573770493,0.036858271171566474,49,TEST_CHANGES,Concerning performance - test creative/targeting changes
+7607,Ivoire East - PRE,13096.02,41.0,5.0,2619.204,0.12195121951219512,0.048673415023974424,47,TEST_CHANGES,Concerning performance - test creative/targeting changes
+7628,Plage,36603.76,92.0,16.0,2287.735,0.17391304347826086,0.020606773129551614,58,TEST_CHANGES,Concerning performance - test creative/targeting changes
+7724,Nmq october - Melee,7105.24,19.0,4.0,1776.31,0.21052631578947367,0.058006287394787547,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+7732,Nmq october - Melee,8706.09,16.0,3.0,2902.03,0.1875,0.07376154797410345,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+7839,Palm Hills Golf Extension,40973.77,105.0,7.0,5853.395714285713,0.06666666666666667,0.032932434985202444,46,TEST_CHANGES,Concerning performance - test creative/targeting changes
+7869,sodic - june north coast,8850.29,21.0,4.0,2212.5725,0.19047619047619047,0.025517532741867344,56,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8107,Plage,4838.849999999999,8.0,3.0,1612.9499999999998,0.375,0.011947203123673712,55,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8112,Plage,14632.57,37.0,12.0,1219.3808333333334,0.32432432432432434,0.008089039053960051,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8117,Plage,9790.79,24.0,6.0,1631.7983333333334,0.25,0.005459223384934706,59,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8128,Mountain view - NC - Dabaa,9631.39,19.0,3.0,3210.463333333333,0.15789473684210525,0.020523399969006664,45,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8132,Mountain view - NC - Dabaa,9380.34,20.0,3.0,3126.78,0.15,0.01751927514210141,43,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8249,Plage,10706.12,23.0,5.0,2141.224,0.21739130434782608,0.015701789089630314,54,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8254,Plage,12582.59,25.0,5.0,2516.518,0.2,0.01926559446327076,45,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8268,Plage,8471.91,17.0,8.0,1058.98875,0.47058823529411764,0.018091773677521145,58,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8269,Plage,14984.01,31.0,5.0,2996.802,0.16129032258064516,0.0214560520864161,55,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8272,Hyde Park North - Seashore,7287.11,22.0,4.0,1821.7775,0.18181818181818182,0.03536510419576513,50,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8298,RAS ELHKEMA GENERAL - NC,6840.84,31.0,5.0,1368.1680000000001,0.16129032258064516,0.0281641511295255,59,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8302,RAS ELHKEMA GENERAL - NC,5939.55,22.0,3.0,1979.8500000000001,0.13636363636363635,0.021769163143132247,51,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8418,Plage,4974.47,15.0,4.0,1243.6175,0.26666666666666666,0.01802396904784373,54,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8600,attal - mokawleen - mostakbal city,4850.37,16.0,4.0,1212.5925,0.25,0.019155545329038196,59,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8693,Hyde Park North - Seashore,6328.47,13.0,3.0,2109.4900000000002,0.23076923076923078,0.024536547744865606,51,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8755,Plage,9599.26,27.0,6.0,1599.8766666666668,0.2222222222222222,0.02330298801964557,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8757,Hyde Park North - Seashore,16736.13,54.0,5.0,3347.226,0.09259259259259259,0.012159120802034315,56,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8797,Taj City,25934.19,115.0,11.0,2357.6536363636365,0.09565217391304348,0.04844229197996471,58,TEST_CHANGES,Concerning performance - test creative/targeting changes
+8917,Hacienda Bay,13477.42,34.0,3.0,4492.473333333333,0.08823529411764706,0.01976731903849346,46,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9011,The Phoenix SwanLake Residences,187660.25,321.0,35.0,5361.721428571429,0.10903426791277258,0.06033224070359349,52,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9183,Palm Hills New Cairo,202956.43,336.0,6.0,33826.07166666666,0.017857142857142856,0.0677217208825336,46,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9246,The Phoenix SwanLake Residences,115694.25,191.0,31.0,3732.0725806451615,0.16230366492146597,0.04223968768506042,52,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9249,ElLatini district - Alamein - City Edge,66799.29,263.0,29.0,2303.423793103448,0.11026615969581749,0.05529739544515529,58,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9321,Fouka Bay,13317.13,74.0,7.0,1902.4471428571428,0.0945945945945946,0.022398096420442788,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9370,Plage,10438.91,50.0,4.0,2609.7275,0.08,0.02947577061005139,48,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9372,Plage,10549.81,39.0,5.0,2109.962,0.1282051282051282,0.021949468357892576,53,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9411,The Phoenix SwanLake Residences,3645.86,11.0,3.0,1215.2866666666666,0.2727272727272727,0.029201940454675165,56,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9424,Palm Hills New Cairo,27178.53,95.0,7.0,3882.6471428571426,0.07368421052631578,0.04226395736555616,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9434,solare - misr italia,14828.33,32.0,4.0,3707.0825,0.125,0.024552917033128115,43,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9450,Mountain View Hyde Park,20082.97,23.0,4.0,5020.7425,0.17391304347826086,0.10307673889620496,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9516,arkan palm 205,38708.23,103.0,7.0,5529.747142857143,0.06796116504854369,0.0167488243949509,41,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9660,Mountain View Hyde Park,19721.2,48.0,8.0,2465.15,0.16666666666666666,0.1351171364014746,50,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9714,Fouka Bay,13223.51,43.0,6.0,2203.9183333333335,0.13953488372093023,0.12845255165604946,55,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9760,The Phoenix SwanLake Residences,32790.97,65.0,6.0,5465.161666666667,0.09230769230769231,0.042675214717513635,44,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9764,Mountain View iCity October,163055.29,425.0,25.0,6522.2116000000005,0.058823529411764705,0.01600278267400288,58,TEST_CHANGES,Concerning performance - test creative/targeting changes
+9871,Sarai,15441.76,35.0,8.0,1930.22,0.22857142857142856,0.09806968266300126,58,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10176,Mountain View iCity October,73400.47,151.0,5.0,14680.094000000001,0.033112582781456956,0.03455165376888773,52,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10223,Ora Solana West,38118.7,125.0,9.0,4235.411111111111,0.072,0.01196012170539047,46,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10224,Ora Solana West,23078.03,68.0,3.0,7692.676666666666,0.04411764705882353,0.016547136472300175,53,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10227,SODIC East,6835.81,18.0,3.0,2278.6033333333335,0.16666666666666666,0.020286731108192155,58,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10394,Sarai,11963.57,31.0,5.0,2392.714,0.16129032258064516,0.08437954192352028,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10436,Mountain view - mostakbal city,8881.5,15.0,5.0,1776.3,0.3333333333333333,0.01392596868460928,59,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10459,Ora Solana West,15665.87,33.0,6.0,2610.9783333333335,0.18181818181818182,0.011271573116140752,53,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10483,Ora Solana West,11468.09,27.0,7.0,1638.2985714285714,0.25925925925925924,0.03151877771248464,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10553,SODIC East,10065.35,49.0,3.0,3355.116666666667,0.061224489795918366,0.022792869269949067,49,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10569,Mar Bay - Al Marasem Ras El Hekma,164392.82,245.0,27.0,6088.622962962963,0.11020408163265306,0.025383242500462876,50,TEST_CHANGES,Concerning performance - test creative/targeting changes
+10720,Mountain view - mostakbal city,4135.37,8.0,3.0,1378.4566666666667,0.375,0.01769305270120237,59,TEST_CHANGES,Concerning performance - test creative/targeting changes
+11026,Elora - arabia holding - new zayed,11122.91,16.0,6.0,1853.8183333333334,0.375,0.02483887660535353,52,TEST_CHANGES,Concerning performance - test creative/targeting changes
+11278,arkan palm 205,7473.31,10.0,4.0,1868.3275,0.4,0.026947438604289366,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+11372,HAPTown ,6093.05,6.0,3.0,2031.0166666666667,0.5,0.022431235657261062,53,TEST_CHANGES,Concerning performance - test creative/targeting changes
+11606,Mountain View iCity October,8093.12,19.0,3.0,2697.7066666666665,0.15789473684210525,0.01969415682596796,46,TEST_CHANGES,Concerning performance - test creative/targeting changes
+11664,Mountain View iCity October,16460.39,30.0,7.0,2351.4842857142858,0.23333333333333334,0.034181758851362376,50,TEST_CHANGES,Concerning performance - test creative/targeting changes
+11772,WonderMarQ - WaterMarQ,36696.98,80.0,5.0,7339.396000000001,0.0625,0.046032456631225516,47,TEST_CHANGES,Concerning performance - test creative/targeting changes
+11780,WonderMarQ - WaterMarQ,36638.81,96.0,7.0,5234.115714285714,0.07291666666666667,0.050243272763380004,51,TEST_CHANGES,Concerning performance - test creative/targeting changes
+11810,Mountain View iCity October,12070.94,13.0,6.0,2011.8233333333335,0.46153846153846156,0.014121492395341072,49,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12027,Mountain View iCity October,20386.02,61.0,11.0,1853.2745454545454,0.18032786885245902,0.03954347198370845,55,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12100,SODIC The Estates,21204.44,50.0,8.0,2650.555,0.16,0.046503420218431964,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12101,SODIC The Estates,9933.51,22.0,4.0,2483.3775,0.18181818181818182,0.05225281602002503,52,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12115,Kings Way,52247.29,140.0,5.0,10449.458,0.03571428571428571,0.027338939977468626,54,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12116,Kings Way,20669.02,45.0,5.0,4133.804,0.1111111111111111,0.01984037334934345,50,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12144,⁠Financial Hub - SUD - New Capital,13902.55,16.0,5.0,2780.5099999999998,0.3125,0.02605516475379489,46,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12145,⁠Financial Hub - SUD - New Capital,7673.73,8.0,3.0,2557.91,0.375,0.02379182156133829,51,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12331,Kings Way,21942.22,107.0,3.0,7314.073333333334,0.028037383177570093,0.029031568445806313,54,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12368,Kings Way,3688.89,11.0,3.0,1229.6299999999999,0.2727272727272727,0.038976353258483344,58,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12706,Kings Way,19068.52,41.0,9.0,2118.7244444444445,0.21951219512195122,0.02248596908718582,59,TEST_CHANGES,Concerning performance - test creative/targeting changes
+12845,WonderMarQ - WaterMarQ,15991.41,25.0,7.0,2284.4871428571428,0.28,0.06348058708697853,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+13249,Il Monte Galala,4944.04,6.0,3.0,1648.0133333333333,0.5,0.056338255988871454,59,TEST_CHANGES,Concerning performance - test creative/targeting changes
+13427,Telal North Coast - PRE,8406.5,11.0,4.0,2101.625,0.36363636363636365,0.09771899041706034,50,TEST_CHANGES,Concerning performance - test creative/targeting changes
+13448,Marakez - District 5,10020.36,13.0,5.0,2004.0720000000001,0.38461538461538464,0.019381305203231614,54,TEST_CHANGES,Concerning performance - test creative/targeting changes
+13699,Ivoire West - PRE,13762.55,23.0,4.0,3440.6375,0.17391304347826086,0.03811309343816147,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+13709,NOI - Urbnlanes - New Cairo Golden Square,5662.15,20.0,3.0,1887.3833333333332,0.15,0.03252644913890506,51,TEST_CHANGES,Concerning performance - test creative/targeting changes
+13895,commercial new cairo general,12759.92,21.0,4.0,3189.98,0.19047619047619047,0.018119262089593528,56,TEST_CHANGES,Concerning performance - test creative/targeting changes
+14005,Capital Heights - SUD - New Capital,24351.38,19.0,5.0,4870.276,0.2631578947368421,0.025897799660630338,51,TEST_CHANGES,Concerning performance - test creative/targeting changes
+14017,Badya - Palm Hills,42360.71,64.0,4.0,10590.1775,0.0625,0.026566980351403882,53,TEST_CHANGES,Concerning performance - test creative/targeting changes
+14463,Mountain View ICity New Cairo,9552.23,30.0,7.0,1364.6042857142857,0.23333333333333334,0.0714913565777908,59,TEST_CHANGES,Concerning performance - test creative/targeting changes
+14664,Il Monte Galala,8703.13,52.0,4.0,2175.7825,0.07692307692307693,0.07391388997051788,53,TEST_CHANGES,Concerning performance - test creative/targeting changes
+14685,Hyde Park,32900.41,197.0,7.0,4700.058571428572,0.03553299492385787,0.026628251341460962,54,TEST_CHANGES,Concerning performance - test creative/targeting changes
+14717,Hyde Park,29251.73,116.0,4.0,7312.9325,0.034482758620689655,0.03602622916828655,57,TEST_CHANGES,Concerning performance - test creative/targeting changes
+15109,Tatweer Misr New Project - Mostakbal City,47578.03,131.0,3.0,15859.343333333332,0.022900763358778626,0.05300796286774413,46,TEST_CHANGES,Concerning performance - test creative/targeting changes
+15123,Margins - Lusial Residence,22130.79,44.0,7.0,3161.5414285714287,0.1590909090909091,0.023820420848722233,55,TEST_CHANGES,Concerning performance - test creative/targeting changes
